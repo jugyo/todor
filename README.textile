@@ -1,4 +1,4 @@
-h1. Sinatra on Google APP Engine
+h1. A simple task management tool on Google App Engine.
 
 h2. Requirements
 
@@ -6,11 +6,11 @@ appengine-java-sdk => "http://code.google.com/appengine/downloads.html":http://c
 
 h2. Get source
 
-<pre><code>git clone git://github.com/jugyo/sinatra_on_gae.git</code></pre>
+<pre><code>git clone git://github.com/jugyo/todor.git</code></pre>
 
 h2. Run
 
-<pre><code>dev_appserver.sh ./sinatra_on_gae</code></pre>
+<pre><code>dev_appserver.sh ./todor</code></pre>
 
 h2. Deploy
 
